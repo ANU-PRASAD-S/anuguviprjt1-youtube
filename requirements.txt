@@ -1,0 +1,14 @@
+altair
+numpy
+pandas
+mysql
+mysqlclient
+mysql-connector-python
+pymongo  # for MongoDB interaction
+mysql-connector-python  # for MySQL interaction
+streamlit
+plotly  # for Plotly visualizations (already mentioned in readme)
+plotly.express
+google-api-python-client
+pillow
+SQLAlchemy
